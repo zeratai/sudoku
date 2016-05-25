@@ -95,7 +95,7 @@ void playGame(int size, int nobs){
                 board.assignValue((input_int[0]-1),(input_int[1]-1),input_int[2]);
 
             } else {
-                cout << "You can't change that value!" << endl;
+                cout << "You can't change that value!!" << endl;
             }
 
         } else {
